@@ -2,7 +2,7 @@
 
 A web application developed using Laravel for managing students, faculty, subjects, and academic results.
 
-#Features
+# Features
 -role-based login like(subject faculty, student)
 -login dashboard
 -student dasboard ( only view )
