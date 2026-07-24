@@ -1,4 +1,4 @@
-"🎓 Student Analytics Portal"
+# "🎓 Student Analytics Portal"
 
 A web application developed using Laravel for managing students, faculty, subjects, and academic results.
 
